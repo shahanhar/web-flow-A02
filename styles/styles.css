@@ -21,6 +21,14 @@
 .display{
     display: flex;
 }
+.grid{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+.grid-2{
+    display: grid;
+    grid-auto-flow: column
+}
 
 /* Header section */
 .navber{
@@ -141,3 +149,24 @@ ul li{
 }
 
 /* footer section */
+.footer-container{
+    margin: 50px 160px;
+    gap: 110px;
+}
+.footer-title{
+    gap: 32px;
+    padding: 0px 110px 69px 0px;
+}
+footer a{
+    text-decoration: none;
+}
+.nav-items{
+    gap: 32px;
+}
+.sponsors{
+    gap: 24px;
+}
+.sponsors img{
+    width: 36px;
+    height: 36px;
+}
