@@ -122,7 +122,38 @@ ul li{
     width: 270px;
     height: 50px;
 }
-
+/* Flower and Plants Lover section */
+.trusted-badge{
+    width: 286px;
+    height: 289px;
+    margin-top: -90px;
+    margin-left: -255px;
+    /* position: absolute; */
+    /* box-shadow: -4px 10px 4px 0 rgba(0, 0, 0, 0.25); */
+}
+.plants-lover-section{
+    margin: 210px 150px 133px 150px;
+}
+.plants-lover-image{
+    padding: 38px 60px 38px 0px;
+    gap: auto;
+}
+.plants-lover-container{
+    padding: 38px 0px 38px 60px;
+    width: 540px;
+}
+.plants-lover-title{
+    font-weight: bold;
+    font-size: 3.125rem;
+    color: #000000;
+}
+.plants-lover-description{
+    font-weight: 400;
+    font-size: 1.375rem;
+    color: rgba(0, 0, 0, 0.5);
+    list-style: disc;
+    padding-bottom: 20px;
+}
 /* joining section */
 .joining-section{
     background-color: rgba(7, 51, 79, 0.4);
