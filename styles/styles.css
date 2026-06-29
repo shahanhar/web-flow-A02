@@ -174,7 +174,8 @@ ul li{
 }
 /* joining section */
 .joining-section{
-    background-image: url(/assets/news-letter-bg.png);
+    /* background-image: url(/assets/news-letter-bg.png); */
+    background-color: #8987A1;
     background-size: cover;
     text-align: center;
     padding: 199px 305px 193px 305px;
